@@ -1,0 +1,41 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-05-27T11:20:12.898Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-05-27T11:21:26.951Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T11:22:36.901Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T11:23:11.285Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T11:25:27.378Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T11:25:27.386Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T11:25:27.388Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T11:25:44.558Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T11:25:44.566Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T11:25:44.569Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T11:26:07.275Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T11:26:07.283Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T11:26:07.285Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T11:41:33.971Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T11:41:33.978Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T11:41:33.980Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T12:13:49.391Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T12:13:49.400Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T12:13:49.403Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T12:19:52.756Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T12:19:52.764Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T12:19:52.766Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T12:44:53.111Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T12:44:53.118Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T12:44:53.120Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T12:45:34.388Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T12:45:34.395Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T12:45:34.397Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T12:46:19.857Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T12:46:19.865Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T12:46:19.867Z"}
+{"level":"error","message":"Controller Error: excelPath is not defined","timestamp":"2025-05-27T12:46:21.557Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T12:46:46.050Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T12:46:46.058Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T12:46:46.060Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T12:47:31.883Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T12:47:31.890Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T12:47:31.892Z"}
+{"level":"info","message":"Database connection established successfully","timestamp":"2025-05-27T12:48:04.448Z"}
+{"level":"info","message":"Database synchronized","timestamp":"2025-05-27T12:48:04.456Z"}
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-05-27T12:48:04.458Z"}
